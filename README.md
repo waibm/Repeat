@@ -192,7 +192,7 @@ throttler.call()
 
 ## Requirements
 
-Repeat is compatible with Swift 4.x.
+Repeat is compatible with Swift 5.x.
 All Apple platforms are supported:
 
 * iOS 8.0+
